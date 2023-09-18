@@ -1,2 +1,2 @@
-# codsoft_task2
+# codsoft_taskno2
 restaurant menu app deisgn
